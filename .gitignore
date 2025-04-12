@@ -1,0 +1,8 @@
+# Ignore Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# Optional ignores
+.terraform/
+.terraform.lock.hcl
+.vscode/
